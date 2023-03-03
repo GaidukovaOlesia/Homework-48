@@ -1,0 +1,12 @@
+{
+  "name": "homework-48",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
